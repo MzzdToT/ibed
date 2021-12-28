@@ -1,0 +1,2 @@
+# ibed
+myblog图床
